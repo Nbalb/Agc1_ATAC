@@ -34,3 +34,15 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+data/
+
+plots/
+
+results/
+
+*.Rproj
+
+.Renviron
+
+agc1_shiny/data_app/
